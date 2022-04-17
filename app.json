@@ -27,6 +27,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "facebookScheme":"fb1917027175149292",
+    "facebookAppId":"1917027175149292",
+    "facebookDisplayName":"SignInApp"
   }
 }
